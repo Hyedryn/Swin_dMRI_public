@@ -1,4 +1,4 @@
-# Leveraging Swin Transformer for Enhanced Diagnosis of Alzheimer’s Disease Using Multi-Shell Diffusion MRI
+# Leveraging Swin Transformer for Enhanced Diagnosis of Alzheimer’s Disease Using Multi-Shell Diffusion MRI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14754203.svg)](https://doi.org/10.5281/zenodo.14754203) 
 
 This repository provides a deep learning framework for classifying Alzheimer's disease and other pathologies using diffusion MRI data, leveraging microstructural feature maps and a pretrained Swin Transformer.
 
